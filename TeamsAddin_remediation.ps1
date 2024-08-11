@@ -1,3 +1,4 @@
+# Log to C:\temp - change this or comment it out if you do not want logging
 Start-Transcript -OutputDirectory c:\temp
 
 # Get Version of currently installed new Teams Package
