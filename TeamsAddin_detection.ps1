@@ -27,6 +27,6 @@ if (Test-Path $FileCheck) {
     exit 0
 }
 else {
-    write-output "Correct Teams AddIn does not exist - remediating"
+    write-output "Correct Teams AddIn does not exist - remediation required"
     exit 1
 }
